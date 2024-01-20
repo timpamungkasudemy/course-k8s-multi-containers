@@ -1,0 +1,3 @@
+http.host: "0.0.0.0"
+monitoring.enabled: false
+xpac.monitoring.enabled: false
