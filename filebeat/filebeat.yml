@@ -8,4 +8,4 @@ processors:
   - add_docker_metadata: ~
 
 output.logstash:
-  hosts: ["localhost:9600"]
+  hosts: ["localhost:5044"]
